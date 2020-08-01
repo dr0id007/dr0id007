@@ -1,4 +1,4 @@
-### Hey 👋, I'm Dev Arora..
+### Hey 👋, I'm Dev Arora..;
 
 <a href="https://www.linkedin.com/in/dev-arora-668180167/">
   <img align="left" alt="Dev's LinkdeIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,19 +14,19 @@
 <br />
 <br />
 
-Hi there, I'm **Dev Arora**, a **Full Stack Developer and Data Analyst** 🚀 from New Delhi, India. 
+Hi there, I'm **Dev Arora**, a **Full Stack Developer and Data Analyst** 🚀 from New Delhi, India;
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> 
   
 **More about me:**
 
-- 💻 I’m currently a final year student in ADGITM, GGSIPU, Delhi 
+- 💻 I’m currently a final year student in ADGITM, GGSIPU, Delhi;
 - 🌱 I’m currently learning about MERN stack , devops , machine learning; 
-- 🤔 My interests include Web Development , App Devlopment ,  ..;
+- 🤔 My interests include Web/App Development ,ml/ai/deep learning , latest js technologies;
 - 💼 I’m pursuing a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help and can chat over technology;
-- 📫 Please email via devarora745@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae]() to get more info.
+- 📫 Please email via devarora745@gmail.com to reach me;
+- 📝 Feeling bored, can read some of my blogs https://medium.com/@devarora_10368;
 
 **Languages and Tools:**  
 
