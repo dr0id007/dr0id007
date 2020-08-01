@@ -37,8 +37,8 @@ Hi there, I'm **Dev Arora**, a **Full Stack Developer and Data Analyst** 🚀 fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-![Dev Arora's github stats](https://github-readme-stats.vercel.app/api?username=droid007&show_icons=true&hide_border=true&theme=cobalt)
-![Dev Arora's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=droid007&layout=compact&show_icons=true&hide_border=true&theme=cobalt)
+![Dev Arora's github stats](https://github-readme-stats.vercel.app/api?username=dr0id007)
+![Dev Arora's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=droid007)
 
 <br />
 
