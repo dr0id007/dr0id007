@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/dev-arora-668180167/">
   <img align="left" alt="Dev's LinkdeIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/devarora98">
+<a href="https://twitter.com/Dr0Id0O7">
   <img align="left" alt="Dev Arora's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/devarora43">
@@ -38,7 +38,7 @@ Hi there, I'm **Dev Arora**, a **Full Stack Developer and Data Analyst** 🚀 fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ![Dev Arora's github stats](https://github-readme-stats.vercel.app/api?username=dr0id007)
-![Dev Arora's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=droid007)
+![Dev Arora's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dr0id007)
 
 <br />
 
