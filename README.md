@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Dev Arora**, a **Full Stack Developer and Data Analyst** 🚀 from New Delhi, India;
+Hi there, I'm **Dev Arora**, a **Full Stack Developer and Machine Learning Enthusiast** 🚀 from New Delhi, India;
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> 
   
