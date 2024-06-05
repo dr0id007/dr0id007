@@ -20,10 +20,10 @@ Hi there, I'm **Dev Arora**, a **Full Stack Developer and Machine Learning Enthu
   
 **More about me:**
 
-- 💻 I’m currently a final year student in ADGITM, GGSIPU, Delhi;
-- 🌱 I’m currently learning about MERN stack , devops , machine learning; 
+- 💻 I’m currently working as a full stack developer;
+- 🌱 I’m currently learning about web3, machine learning; 
 - 🤔 My interests include Web/App Development ,ml/ai/deep learning , latest js technologies;
-- 💼 I’m pursuing a Bachelor's degree in Information Technology;
+- 💼 I have completed my Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help and can chat over technology;
 - 📫 Please email via devarora745@gmail.com to reach me;
 - 📝 Feeling bored, can read some of my blogs https://medium.com/@devarora_10368;
